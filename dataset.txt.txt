@@ -1,0 +1,7 @@
+Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM),Java applications are compiled into bytecode and executed on the Java Virtual Machine (JVM)
+Java provides a dynamic runtime environment,Java allows for runtime code modification and reflection capabilities
+The Java runtime provides dynamic capabilities such as reflection and runtime code modification,Java offers dynamic features like reflection and the ability to modify code during runtime
+In Java, compiled code can run on any platform that supports Java,Java is platform-independent thanks to the JVM which ensures that compiled bytecode runs on all systems supporting Java
+The Java language is designed to be simple and easy to use,Java programming focuses on simplicity making it accessible for beginners
+In Java, memory management is handled by garbage collection,Java uses automatic memory management with garbage collection to free unused memory
+Java allows you to create secure applications through its built-in security features,Java provides strong security features to build safe applications
