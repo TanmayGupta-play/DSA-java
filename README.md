@@ -1,4 +1,4 @@
-# DSA-java
+# Data structure java oops-207
 Tanmay Gupta(23bds061)
 Yash Birje(23bds070)
 Harsh Raj(23bds076)
